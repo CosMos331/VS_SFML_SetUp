@@ -30,3 +30,6 @@ sfml-network.lib
 sfml-system.lib
 sfml-window.lib
 sfml-main.lib
+
+# git이 bin 폴더를 찾지 못하는 경우
+- gitbash에서 (add -f [bin폴터까지의 경로]/*.dll) 명령어로 강제 add
